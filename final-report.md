@@ -1,5 +1,5 @@
 # Integration: Phase2
-**Team:** Liza Mozolyuk, Yusef lname, Matt lname
+**Team:** Liza Mozolyuk, Yusef Jawad, Matt Rosica
 
 ## SQL Table Diagram
 <img width="1252" alt="Screen Shot 2023-05-04 at 12 55 51 PM" src="https://user-images.githubusercontent.com/35519843/236273632-ebf9edcc-e7ed-44c4-9a32-8750c6148c74.png">
@@ -117,34 +117,5 @@ view classmates:**
 <img width="1440" alt="Screenshot 2023-05-05 at 3 42 37 AM" src="https://user-images.githubusercontent.com/112406436/236402477-b4178bdd-1a44-4842-ae27-39e1eb2d4144.png">
 
 
-
-
-
-
-## Work breakdown
--Liza:
-    -[x] Alumni chatroom feture and style for template 
-    -[x] ER Diagram
-    -[x] Added faculty table and made checks for authoriztion
-    -[x] user home pages for the faculty, sysadmin, and gs
-    -[x] navbar design for minecraft theme
-    -[x] dummy data
-    -[x] queries for gs with respect to ADS
-
--Matt:
-    -[x] Rate my professor and Rate my course functionality
-    -[x] classmates page, Student Messaging system and professor student list, and messaging system
-    -[x] Professor list/course List that shows ratings/comments for each and average rating
-    -[x] worked on Student home page
-    -[x] Integreated registration into lizas general pages
-    -[x] Inbox for messages from classmates and professor
-    
--Yusef:
-   -[x] All aspects of applications (application page, reviewers and so on)
-   -[x] Ensured checks for all functions (and restrictions based on type of faculty)
-   -[x] Background image, button, and some of the text styles for all webpages 
-   -[x] worked on index home page
-   -[x] Integreated application page into lizas general pages
-   -[x] Queries and reports for APPS
 
 
